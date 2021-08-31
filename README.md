@@ -1,12 +1,12 @@
-## hey there, welcome! 
+### 🙇🏻‍♀️ hey there, welcome! 
 ```javascript
 let namePronunciation = "geo"; 🌎 
-let pronouns = "She/Her";
+let genderPronouns = "she/her";
 ```
 
 ### about me
 - Computer Engineering Student at [University of Toronto](https://www.ece.utoronto.ca/)
-- Interested in Software Development and Product Management 🤩
+- Passionate about Software Development and Product Management 🤩
 - Check out my personal website [here!](https://jioh.ca/) 
 
 ### connect with me
