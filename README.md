@@ -20,7 +20,7 @@ let genderPronouns = "she/her";
   
   ![Jioh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jioh-kim&hide=stars&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
   
-  ![Jioh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jioh-kim&layout=compact&hide_title=true)
+  ![Jioh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jioh-kim&&exclude_repo=personal-website&layout=compact&hide_title=true)
   
   <img src="https://komarev.com/ghpvc/?username=jioh-kim&style=flat-square&color=151515" alt="GitHub Profile Views"/>
 </details>
