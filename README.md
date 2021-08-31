@@ -11,7 +11,7 @@ let genderPronouns = "she/her";
 
 ### connect with me
 - [LinkedIn](https://www.linkedin.com/in/jioh-kim/)
-- [Email](jioh.kim@outlook.com)
+- [Email](mailto:jioh.kim@outlook.com)
 
 <details>
   <summary> github stats 💥 </summary>
