@@ -1,16 +1,26 @@
-### Hi there 👋
+## hey there, welcome! 
+```javascript
+let namePronunciation = "geo"; 🌎 
+let pronouns = "She/Her";
+```
 
-<!--
-**jioh-kim/jioh-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### about me
+- Computer Engineering Student at [University of Toronto](https://www.ece.utoronto.ca/)
+- Interested in Software Development and Product Management 🤩
+- Check out my personal website [here!](https://jioh.ca/) 
 
-Here are some ideas to get you started:
+### connect with me
+- [LinkedIn](https://www.linkedin.com/in/jioh-kim/)
+- [Email](jioh.kim@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary> github stats 💥 </summary>
+ 
+  <br>
+  
+  ![Jioh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jioh-kim&hide=stars&show_icons=true&hide_title=true&count_private=true&include_all_commits=true)
+  
+  ![Jioh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jioh-kim&layout=compact&hide_title=true)
+  
+  <img src="https://komarev.com/ghpvc/?username=jioh-kim&style=flat-square&color=151515" alt="GitHub Profile Views"/>
+</details>
