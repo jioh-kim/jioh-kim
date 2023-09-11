@@ -5,9 +5,8 @@ let genderPronouns = "she/her";
 ```
 
 ### about me
-- Computer Engineering Student at [University of Toronto](https://www.ece.utoronto.ca/)
-- Passionate about Software Development and Product Management 🤩
-- Intern at [Citi](https://www.citigroup.com/citi/) and [AMD](https://www.amd.com/en)
+- Final Year Computer Engineering Student at [University of Toronto](https://www.ece.utoronto.ca/)
+- Software Development and Product Management 🤩
 
 ### connect with me
 - [LinkedIn](https://www.linkedin.com/in/jioh-kim/)
