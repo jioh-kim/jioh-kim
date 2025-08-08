@@ -10,5 +10,4 @@ let genderPronouns = "she/her";
 - Prev @ [Microsoft](https://www.microsoft.com/en-us/about), [AMD](https://www.amd.com/en.html), [Citibank](https://www.citi.com/), & [Meta](https://about.meta.com/metaverse/)
 
 ### Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/jioh-kim/)
-- [Email](mailto:jioh.kim@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/jioh-kim/) | [Email](mailto:jioh.kim@outlook.com)
